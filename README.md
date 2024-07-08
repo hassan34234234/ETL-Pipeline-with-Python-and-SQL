@@ -10,9 +10,9 @@ Defining Data Tables:
 
 Next, I defined the structure of the database by creating a table named accountinformation. This table included fields such as Loan ID, Gender, Marital Status, Income Details, and Loan Approval Status.
 
-Data Extraction and Transformation:
+Data Extraction:
 
-I utilized Pandas to read and clean the finance data from a CSV file. This involved selecting relevant columns and ensuring data consistency for smooth processing.
+I utilized Pandas to read the finance data from a CSV file. This involved selecting relevant columns and ensuring data consistency for smooth processing.
 
 Loading Data into PostgreSQL:
 
