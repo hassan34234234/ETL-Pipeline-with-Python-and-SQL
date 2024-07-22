@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-In this project, I designed and implemented an ETL (Extract, Transform, Load) pipeline to streamline the handling of loan application data. The pipeline involves:
+In this project, I designed and implemented an ETL (Extract, Transform, Load) pipeline to streamline the handling of banking data. The pipeline involves:
 
 - Extracting raw data from a CSV file.
 - Transforming the data using Python and Pandas for data cleaning and preparation.
